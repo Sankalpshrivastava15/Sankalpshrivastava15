@@ -89,8 +89,6 @@ I'm **Sankalp Shrivastava**, a passionate student and aspiring developer from **
 ### 📈 Check out my contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sankalpshrivastava15&theme=tokyonight&hide_border=true&background=0d1f1a&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7)](https://github.com/Sankalpshrivastava15)
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sankalpshrivastava15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1f1a&title_color=00C9A7&text_color=ffffff&cache_seconds=86400)](https://github.com/Sankalpshrivastava15)
-
 </div>
 
 ---
