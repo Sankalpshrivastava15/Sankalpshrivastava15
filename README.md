@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sankalp%20Shrivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Permanent+Marker" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sankalp%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Permanent+Marker" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sankalpsrivastava15&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Sankalpsrivastava15?style=for-the-badge&color=7C3AED&labelColor=0f0c29&label=FOLLOWERS)](https://github.com/Sankalpsrivastava15)
+![Profile Views](https://komarev.com/ghpvc/?username=Sankalpshrivastava15&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Sankalpshrivastava15?style=for-the-badge&color=7C3AED&labelColor=0f0c29&label=FOLLOWERS)](https://github.com/Sankalpshrivastava15)
 
 </div>
 
@@ -73,34 +73,22 @@ I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **I
 
 | Project | Description | Tech |
 |---|---|---|
-| [🏥 CardioPulse-AI](https://github.com/Sankalpsrivastava15/CardioPulse-AI) | Web app for predicting heart disease risk using machine learning. Built with Flask + Scikit-learn. Includes patient records management and secure doctor login. | `Python` `Flask` `Scikit-learn` `CSS` |
-| [🛒 Amazon Product Scraper](https://github.com/Sankalpsrivastava15/amazon-product-scraper) | Efficient web scraper for extracting product data from Amazon. Useful for price monitoring and data analysis. | `Python` `Web Scraping` `Data Analysis` |
-| [💾 DataDNA-AI](https://github.com/Sankalpsrivastava15/DataDNA-AI) | AI-powered data analysis and visualization platform. Clean interface with intelligent data insights. | `HTML` `CSS` `JavaScript` `AI` |
-| [👋 Sankalpsrivastava15](https://github.com/Sankalpsrivastava15/Sankalpsrivastava15) | My GitHub profile repository with documentation and portfolio information. | `GitHub` `Documentation` |
+| [🏥 CardioPulse-AI](https://github.com/Sankalpshrivastava15/CardioPulse-AI) | Web app for predicting heart disease risk using machine learning. Built with Flask + Scikit-learn. Includes patient records management and secure doctor login. | `Python` `Flask` `Scikit-learn` `CSS` |
+| [🛒 Amazon Product Scraper](https://github.com/Sankalpshrivastava15/amazon-product-scraper) | Efficient web scraper for extracting product data from Amazon. Useful for price monitoring and data analysis. | `Python` `Web Scraping` `Data Analysis` |
+| [💾 DataDNA-AI](https://github.com/Sankalpshrivastava15/DataDNA-AI) | AI-powered data analysis and visualization platform. Clean interface with intelligent data insights. | `HTML` `CSS` `JavaScript` `AI` |
+| [👋 Sankalpshrivastava15](https://github.com/Sankalpshrivastava15/Sankalpshrivastava15) | My GitHub profile repository with documentation and portfolio information. | `GitHub` `Documentation` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sankalpsrivastava15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sankalpsrivastava15&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
+### 📈 Check out my contributions
+[![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankalpshrivastava15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff)](https://github.com/Sankalpshrivastava15)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpshrivastava15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=ffffff" width="49%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpshrivastava15&bg_color=0f0c29&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -111,7 +99,7 @@ I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **I
 
 [![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sankalpshrivastava04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sankalp-shrivastava-b67242318)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Sankalpsrivastava15)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Sankalpshrivastava15)
 
 <br/>
 
