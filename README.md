@@ -81,20 +81,32 @@ class SankalpShrivastava:
 
 </div>
 
----
 
-## 📊 GitHub Stats & Activity
+
+## ⚔️ LeetCode & Contributions
 
 <div align="center">
 
-### 📈 Check out my contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sankalpshrivastava15&theme=tokyonight&hide_border=true&background=1a0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)](https://github.com/Sankalpshrivastava15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sankalpshrivastava2004/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Sankalpshrivastava15)
 
 </div>
 
+```
+🔥 GitHub Activity (Last Year)
+──────────────────────────────────────────────
+  Total Contributions   : 187+
+  ML Projects           : 3 repositories
+  LeetCode Solutions    : Actively solving & counting
+  Status                : Actively building 🔨
+──────────────────────────────────────────────
+```
+
+> *Consistent commits. Consistent growth. Problem-solving is a muscle — I train it daily.*
+
 ---
 
-## 🤝 Connect With Me
+
 
 <div align="center">
 
