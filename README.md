@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1a,50:0a3d2e,100:0d2b1f&height=180&section=header&text=Sankalp%20Shrivastava&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=63&descSize=18&animation=twinkling&fontFamily=Permanent+Marker" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sankalpshrivastava15/Sankalpshrivastava15/main/header.png" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
