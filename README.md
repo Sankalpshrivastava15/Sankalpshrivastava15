@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1f1a,50:0a3d2e,100:0d2b1f&height=200&section=header&text=Sankalp%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Permanent+Marker" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1a,50:0a3d2e,100:0d2b1f&height=180&section=header&text=Sankalp%20Shrivastava&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=63&descSize=18&animation=twinkling&fontFamily=Permanent+Marker" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **Indore, India** 🇮🇳. I'm on a mission to build intelligent applications that solve real-world problems using **Machine Learning** and **Web Development**.
+I'm **Sankalp Shrivastava**, a passionate student and aspiring developer from **Indore, India** 🇮🇳. I'm on a mission to build intelligent applications that solve real-world problems using **Machine Learning** and **Web Development**.
 
 **What drives me:**
 - 🎯 **Building ML systems** that make a difference
@@ -110,4 +110,4 @@ I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **I
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1f1a,50:0a3d2e,100:0d2b1f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1a,50:0a3d2e,100:0d2b1f&height=120&section=footer" width="100%"/>
