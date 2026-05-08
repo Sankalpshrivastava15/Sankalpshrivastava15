@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sankalp%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Permanent+Marker" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sankalp%20Shrivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Permanent+Marker" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -91,7 +91,7 @@ I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **I
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpsrivastava15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpshrivastava15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=ffffff" width="49%"/>
 
 </div>
 
@@ -100,7 +100,7 @@ I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **I
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpsrivastava15&bg_color=0f0c29&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpshrivastava15&bg_color=0f0c29&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
