@@ -100,6 +100,7 @@ class SankalpShrivastava:
 
 [![Email](https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sankalpshrivastava04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/sankalp-shrivastava-b67242318)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sankalpshrivastava2004/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Sankalpshrivastava15)
 
 <br/>
