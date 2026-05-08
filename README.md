@@ -1,63 +1,84 @@
-# Hey there! 👋 I'm [Sankalp Shrivastava]
-
-> A passionate learner diving deep into the world of code and technology
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sankalp%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Permanent+Marker" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Building+ML+applications;Exploring+Web+Development;Learning+every+day" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sankalpsrivastava15&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Sankalpsrivastava15?style=for-the-badge&color=7C3AED&labelColor=0f0c29&label=FOLLOWERS)](https://github.com/Sankalpsrivastava15)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a student and aspiring developer on an exciting journey to master programming and software development. I love building projects that solve real problems and learning new technologies along the way. Currently focused on becoming a skilled developer and contributing to meaningful projects.
+I'm **Sankalp Srivastava**, a passionate student and aspiring developer from **Indore, India** 🇮🇳. I'm on a mission to build intelligent applications that solve real-world problems using **Machine Learning** and **Web Development**.
 
-- 🎓 **Currently Learning:** Web Development, Data Structures & Algorithms, and open-source contributions
-- 💻 **Tech Stack:** JavaScript, Python, HTML/CSS, Git (and always learning more!)
-- 🌱 **Growth Mindset:** Passionate about continuous learning and improvement
-- 🎯 **Goal:** Build practical projects and contribute to open-source communities
-- 💬 **Ask me about:** Coding challenges, beginner-friendly projects, learning resources
+**What drives me:**
+- 🎯 **Building ML systems** that make a difference
+- 💡 **Problem solving** through code and creativity  
+- 📊 **Data analysis** to uncover meaningful insights
+- 🚀 **Continuous learning** in AI, ML, and full-stack development
+
+**Currently working on:**
+- Developing predictive ML models (CardioPulse-AI for healthcare)
+- Building web scrapers and data pipelines
+- Creating end-to-end ML applications with Flask backends
+
+> "I believe that with great data and good algorithms, we can build systems that improve lives."
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
+
+<div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=FFD43B)
+![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34C26)
+![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=150458)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0f0c29?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+</div>
 
 ---
 
-## 📚 Featured Projects
+## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/your-username/project-1)
-> A brief description of what this project does
-- 🔧 Built with: JavaScript, HTML, CSS
-- ✨ Key features: Feature 1, Feature 2, Feature 3
-- 📖 [Check it out →](https://github.com/your-username/project-1)
+<div align="center">
 
-### [Project Name 2](https://github.com/your-username/project-2)
-> Another amazing project description
-- 🔧 Built with: Python, [Framework Name]
-- ✨ Key features: Feature 1, Feature 2
-- 📖 [Check it out →](https://github.com/your-username/project-2)
+| Project | Description | Tech |
+|---|---|---|
+| [🏥 CardioPulse-AI](https://github.com/Sankalpsrivastava15/CardioPulse-AI) | Web app for predicting heart disease risk using machine learning. Built with Flask + Scikit-learn. Includes patient records management and secure doctor login. | `Python` `Flask` `Scikit-learn` `CSS` |
+| [🛒 Amazon Product Scraper](https://github.com/Sankalpsrivastava15/amazon-product-scraper) | Efficient web scraper for extracting product data from Amazon. Useful for price monitoring and data analysis. | `Python` `Web Scraping` `Data Analysis` |
+| [💾 DataDNA-AI](https://github.com/Sankalpsrivastava15/DataDNA-AI) | AI-powered data analysis and visualization platform. Clean interface with intelligent data insights. | `HTML` `CSS` `JavaScript` `AI` |
+| [👋 Sankalpsrivastava15](https://github.com/Sankalpsrivastava15/Sankalpsrivastava15) | My GitHub profile repository with documentation and portfolio information. | `GitHub` `Documentation` |
 
-### [Project Name 3](https://github.com/your-username/project-3)
-> What you built and why it's cool
-- 🔧 Built with: Tech Stack
-- ✨ Key features: Feature 1, Feature 2
-- 📖 [Check it out →](https://github.com/your-username/project-3)
+</div>
 
 ---
 
@@ -65,55 +86,38 @@ I'm a student and aspiring developer on an exciting journey to master programmin
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)](https://github.com/your-github-username)
+<img src="https://github-readme-stats.vercel.app/api?username=Sankalpsrivastava15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sankalpsrivastava15&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)](https://github.com/your-github-username)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpsrivastava15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=ffffff" width="49%"/>
 
 </div>
 
 ---
 
-## 🎓 Learning Journey
+## 📈 Contribution Graph
 
-I'm actively learning and improving my skills. Here's what I'm focusing on:
-
-- [ ] Master JavaScript fundamentals
-- [ ] Build responsive web applications
-- [ ] Learn React or Vue.js
-- [ ] Contribute to open-source projects
-- [ ] Understand databases & backend development
-- [ ] Deploy projects to production
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpsrivastava15&bg_color=0f0c29&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-## 📫 Let's Connect!
-
-I'd love to connect, collaborate, or just chat about coding!
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sankalpshrivastava04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sankalp-shrivastava-b67242318)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Sankalpsrivastava15)
+
+<br/>
+
+⭐ **Learning constantly, building projects, and moving step-by-step toward becoming a great developer.**
 
 </div>
 
----
-
-## 💡 Fun Facts
-
-- 🎮 When not coding, you can find me [doing what you enjoy]
-- 📖 My favorite learning resource is [mention a resource]
-- 🌍 Based in [Your Location]
-- ☕ Powered by coffee and curiosity
-
----
-
-<div align="center">
-
-**Show some ❤️ by starring some of my repositories!**
-
-*Last updated: [Current Date]*
-
-</div>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
