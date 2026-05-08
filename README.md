@@ -19,25 +19,25 @@
 ---
 
 ## 🧠 About Me
-
-I'm **Sankalp Shrivastava**, a passionate student and aspiring developer from **Indore, India** 🇮🇳. I'm on a mission to build intelligent applications that solve real-world problems using **Machine Learning** and **Web Development**.
-
-**What drives me:**
-- 🎯 **Building ML systems** that make a difference
-- 💡 **Problem solving** through code and creativity  
-- 📊 **Data analysis** to uncover meaningful insights
-- 🚀 **Continuous learning** in AI, ML, and full-stack development
-
-**Currently working on:**
-- Developing predictive ML models (CardioPulse-AI for healthcare)
-- Building web scrapers and data pipelines
-- Creating end-to-end ML applications with Flask backends
-
-> "I believe that with great data and good algorithms, we can build systems that improve lives."
-
+ 
+```python
+class SankalpShrivastava:
+    name        = "Sankalp Shrivastava"
+    role        = "Aspiring Developer & ML Enthusiast"
+    focus       = ["Machine Learning", "Web Development", "Data Analysis"]
+    currently   = [
+                    "Building CardioPulse-AI for heart disease prediction",
+                    "Building web scrapers and data pipelines",
+                    "Creating end-to-end ML apps with Flask backends"
+                  ]
+    belief      = "With great algorithms comes great responsibility"
+ 
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something impactful together.")
+```
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I'm **Sankalp Shrivastava**, a passionate student and aspiring developer from **
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -82,18 +82,18 @@ I'm **Sankalp Shrivastava**, a passionate student and aspiring developer from **
 
 ---
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <div align="center">
 
-### 📈 Check out my contributions
+###  Check out my contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sankalpshrivastava15&theme=tokyonight&hide_border=true&background=0d1f1a&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7)](https://github.com/Sankalpshrivastava15)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -103,7 +103,7 @@ I'm **Sankalp Shrivastava**, a passionate student and aspiring developer from **
 
 <br/>
 
-⭐ **Learning constantly, building projects, and moving step-by-step toward becoming a great developer.**
+ **Learning constantly, building projects, and moving step-by-step toward becoming a great developer.**
 
 </div>
 
