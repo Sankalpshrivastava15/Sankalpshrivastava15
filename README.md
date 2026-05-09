@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+## ✌️ About Me
 
 ```python
 class SankalpShrivastava:
@@ -30,7 +30,7 @@ class SankalpShrivastava:
                     "Building web scrapers and data pipelines",
                     "Creating end-to-end ML apps with Flask backends"
                   ]
-    belief      = "With great algorithms comes great responsibility 🕷️"
+    belief      = "With great algorithms comes great responsibility"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something impactful together.")
@@ -38,7 +38,7 @@ class SankalpShrivastava:
 
 ---
 
-## 🛠️ Skills & Tools
+## 🥷🏻 Skills & Tools
 
 <div align="center">
 
@@ -83,7 +83,64 @@ class SankalpShrivastava:
 
 
 
-## ⚔️ LeetCode & Contributions
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🌐 Full Stack Web Dev
+![Udemy](https://img.shields.io/badge/Udemy-1a0000?style=for-the-badge&logo=udemy&logoColor=FF0000)
+
+**Angela Yu — 100 Days of Code**
+
+![Progress](https://img.shields.io/badge/Progress-62%25-FF0000?style=for-the-badge&labelColor=1a0000)
+
+![HTML5](https://img.shields.io/badge/HTML5-1a0000?style=flat-square&logo=html5&logoColor=E34C26)
+![CSS3](https://img.shields.io/badge/CSS3-1a0000?style=flat-square&logo=css3&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/JS-1a0000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1a0000?style=flat-square&logo=python&logoColor=FF0000)
+![Flask](https://img.shields.io/badge/Flask-1a0000?style=flat-square&logo=flask&logoColor=FF0000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0000?style=flat-square&logo=bootstrap&logoColor=FF0000)
+![SQL](https://img.shields.io/badge/SQL-1a0000?style=flat-square&logo=postgresql&logoColor=FF0000)
+![React](https://img.shields.io/badge/React-1a0000?style=flat-square&logo=react&logoColor=61DAFB)
+
+🔥 **Actively grinding**
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### ⚔️ DSA Practice
+![LeetCode](https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+
+**Data Structures & Algorithms**
+
+![Status](https://img.shields.io/badge/Status-Solving%20Daily-FF0000?style=for-the-badge&labelColor=1a0000)
+
+![Arrays](https://img.shields.io/badge/Arrays-1a0000?style=flat-square&logoColor=FF0000)
+![Strings](https://img.shields.io/badge/Strings-1a0000?style=flat-square&logoColor=FF0000)
+![Trees](https://img.shields.io/badge/Trees-1a0000?style=flat-square&logoColor=FF0000)
+![Graphs](https://img.shields.io/badge/Graphs-1a0000?style=flat-square&logoColor=FF0000)
+![DP](https://img.shields.io/badge/Dynamic%20Programming-1a0000?style=flat-square&logoColor=FF0000)
+![Recursion](https://img.shields.io/badge/Recursion-1a0000?style=flat-square&logoColor=FF0000)
+![Sorting](https://img.shields.io/badge/Sorting-1a0000?style=flat-square&logoColor=FF0000)
+![Binary Search](https://img.shields.io/badge/Binary%20Search-1a0000?style=flat-square&logoColor=FF0000)
+
+🧠 **Problem-solving is a muscle — I train it daily**
+
+</td>
+</tr>
+</table>
+</div>
+
+
+
+---
+
+
 
 <div align="center">
 
@@ -93,12 +150,12 @@ class SankalpShrivastava:
 </div>
 
 ```
-🔥 GitHub Activity (Last Year)
+GitHub Activity (Last Year)
 ──────────────────────────────────────────────
   Total Contributions   : 187+
   ML Projects           : 3 repositories
   LeetCode Solutions    : Actively solving & counting
-  Status                : Actively building 🔨
+  Status                : Actively building
 ──────────────────────────────────────────────
 ```
 
